@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "https://voidchat.org"
+  status = 200
+  force = true
